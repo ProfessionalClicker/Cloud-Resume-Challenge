@@ -1,6 +1,4 @@
 
-
-document.getElementById("test").innerHTML = "Javascript is working!";
 const counter = document.getElementById("counter-number");
 
 const url = "https://lfh7qeixuf.execute-api.us-east-1.amazonaws.com/Prod/hello";
